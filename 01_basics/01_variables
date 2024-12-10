@@ -1,0 +1,9 @@
+const accountID = 14450
+let accountEmail = "krisha@gmail.com"
+var accountState = "Gujarat"
+accountCity = "Bharuch"
+
+let AccountNumber
+// we do not use var due to issues in block space and fucntional scope//
+
+console.table([accountID, accountEmail, accountState, accountCity, AccountNumber])
