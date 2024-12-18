@@ -23,3 +23,4 @@ symbol ==> uniqueness
 
 console.log(typeof null) //output is object
 console.log(typeof undefined) // output is undefined
+console.log(typeof krisha)//
